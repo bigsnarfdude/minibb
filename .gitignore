@@ -59,15 +59,7 @@ Thumbs.db
 coverage/
 *.cover
 
-# Bootstrap/learning framework files (not needed for MiniBB)
-BOOTSTRAP_README.md
-INSTALLATION_GUIDE.md
-LEARNING_PATHS.md
-PLAN.md
-QUICK_START.md
-SETUP_CHECKLIST.md
-TROUBLESHOOTING.md
-USAGE_GUIDE.md
+# Bootstrap/learning framework files
 bootstrap.config.json
 bootstrap.sh
 test-bootstrap.sh
