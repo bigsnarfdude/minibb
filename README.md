@@ -1,6 +1,6 @@
-# 🗣️ MiniBB - Simple Bulletin Board System
+# 🗣️ Claude Code web starter project - Example Simple Bulletin Board System
 
-A lightweight, modern bulletin board system inspired by phpBB and 4chan. Built with Go backend and React frontend, featuring tripcode authentication and real-time discussions.
+A lightweight, modern CC project. Built with Go backend and React frontend, featuring tripcode authentication and real-time discussions.
 
 ## ✨ Features
 
