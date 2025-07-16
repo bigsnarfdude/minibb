@@ -1,4 +1,4 @@
-# 🗣️ Claude Code web starter project - Example Simple Bulletin Board System
+# 🗣️ Claude Code web starter project - Example Go backend and React frontend for CC vibecode demo
 
 A lightweight, modern CC project. Built with Go backend and React frontend, featuring tripcode authentication and real-time discussions.
 
